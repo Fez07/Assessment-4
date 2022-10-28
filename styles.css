@@ -1,0 +1,18 @@
+body{
+  background: lightblue;
+}
+
+.title {
+  color: black;
+  background: #6fa8dc;
+}
+
+.para {
+  colar: black;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+}
+
+.video{
+  text-align: center;
+}
